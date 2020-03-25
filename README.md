@@ -16,4 +16,4 @@ Developed based on Omnistack week offered by RocketSeat.
 
 ## Contact ##
 
-You can contact me by accessing my Linkedin by[clicking here](https://www.linkedin.com/in/brunopinhal/).
+You can contact me by accessing my Linkedin by [clicking here](https://www.linkedin.com/in/brunopinhal/).
